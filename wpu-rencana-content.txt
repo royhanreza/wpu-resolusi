@@ -3,7 +3,11 @@ RENCANA KONTEN
 - JAVASCRIPT
   *ES6
   *FRAMEWORK
-  - Fundamental Data Dasar
+   ^Vue
+   ^React
+- Fundamental Data Dasar
 - PHP FRAMEWOEK
+  ^Laravel
 - INTERVIEW
 - VLOG
+- Python
