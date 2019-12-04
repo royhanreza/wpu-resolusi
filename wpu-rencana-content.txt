@@ -4,6 +4,7 @@ RENCANA KONTEN
   *ES6
   *FRAMEWORK
    ^Vue
+   ^React
 - Fundamental Data Dasar
 - PHP FRAMEWOEK
   ^Laravel
